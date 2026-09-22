@@ -9,5 +9,33 @@
         "name": "Beckett Gordon"
     },
     "items": [
+        {
+            "id": "https://beckettrgordon.github.io/portfolio/pneumatic-thruster.html",
+            "url": "https://beckettrgordon.github.io/portfolio/pneumatic-thruster.html",
+            "title": "Pneumatic Thruster",
+            "summary": "cool fun AE research project",
+            "content_html": "<p>cool fun AE research project</p>",
+            "author": {
+                "name": "Beckett Gordon"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-22T17:41:28-04:00",
+            "date_modified": "2026-09-22T17:43:32-04:00"
+        },
+        {
+            "id": "https://beckettrgordon.github.io/portfolio/fsae-brake-pedal.html",
+            "url": "https://beckettrgordon.github.io/portfolio/fsae-brake-pedal.html",
+            "title": "FSAE Brake Pedal",
+            "summary": "analysis of fsae brake pedal and other things",
+            "content_html": "\n  <p>\n    analysis of fsae brake pedal and other things\n  </p>",
+            "author": {
+                "name": "Beckett Gordon"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-22T17:41:15-04:00",
+            "date_modified": "2026-09-22T17:43:43-04:00"
+        }
     ]
 }

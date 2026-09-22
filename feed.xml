@@ -3,10 +3,53 @@
     <title>Beckett Gordon&#x27;s Portfolio</title>
     <link href="https://beckettrgordon.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://beckettrgordon.github.io/portfolio" />
-    <updated>1969-12-31T19:00:00-05:00</updated>
+    <updated>2026-09-22T17:43:43-04:00</updated>
     <author>
         <name>Beckett Gordon</name>
     </author>
     <id>https://beckettrgordon.github.io/portfolio</id>
 
+    <entry>
+        <title>Pneumatic Thruster</title>
+        <author>
+            <name>Beckett Gordon</name>
+        </author>
+        <link href="https://beckettrgordon.github.io/portfolio/pneumatic-thruster.html"/>
+        <id>https://beckettrgordon.github.io/portfolio/pneumatic-thruster.html</id>
+
+        <updated>2026-09-22T17:41:28-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    cool fun AE research project
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>cool fun AE research project</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>FSAE Brake Pedal</title>
+        <author>
+            <name>Beckett Gordon</name>
+        </author>
+        <link href="https://beckettrgordon.github.io/portfolio/fsae-brake-pedal.html"/>
+        <id>https://beckettrgordon.github.io/portfolio/fsae-brake-pedal.html</id>
+
+        <updated>2026-09-22T17:41:15-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    analysis of fsae brake pedal and other things
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    analysis of fsae brake pedal and other things
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
