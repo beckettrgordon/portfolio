@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Beckett Gordon&#x27;s Portfolio",
+    "description": "",
+    "home_page_url": "https://beckettrgordon.github.io/portfolio",
+    "feed_url": "https://beckettrgordon.github.io/portfolio/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Beckett Gordon"
+    },
+    "items": [
+        {
+            "id": "https://beckettrgordon.github.io/portfolio/hello-world.html",
+            "url": "https://beckettrgordon.github.io/portfolio/hello-world.html",
+            "title": "hello world!",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Beckett Gordon"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-22T17:09:51-04:00",
+            "date_modified": "2026-09-22T17:12:08-04:00"
+        }
+    ]
+}
