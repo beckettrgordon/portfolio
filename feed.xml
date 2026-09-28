@@ -3,7 +3,7 @@
     <title>Beckett Gordon&#x27;s Portfolio</title>
     <link href="https://beckettrgordon.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://beckettrgordon.github.io/portfolio" />
-    <updated>2026-09-22T17:43:43-04:00</updated>
+    <updated>2026-09-27T22:22:24-04:00</updated>
     <author>
         <name>Beckett Gordon</name>
     </author>
@@ -30,24 +30,76 @@
         </content>
     </entry>
     <entry>
-        <title>FSAE Brake Pedal</title>
+        <title>FSAE Brake Pedal System</title>
         <author>
             <name>Beckett Gordon</name>
         </author>
         <link href="https://beckettrgordon.github.io/portfolio/fsae-brake-pedal.html"/>
         <id>https://beckettrgordon.github.io/portfolio/fsae-brake-pedal.html</id>
+        <media:content url="https://beckettrgordon.github.io/portfolio/media/posts/6/Screenshot-2026-09-22-193227.png" medium="image" />
 
         <updated>2026-09-22T17:41:15-04:00</updated>
             <summary type="html">
                 <![CDATA[
-                    analysis of fsae brake pedal and other things
+                        <img src="https://beckettrgordon.github.io/portfolio/media/posts/6/Screenshot-2026-09-22-193227.png" alt="" />
+                    Goals This brake pedal &amp; carriage design was inherited from GT's 2026 FSAE car, and my goal was to validate&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://beckettrgordon.github.io/portfolio/media/posts/6/Screenshot-2026-09-22-193227.png" class="type:primaryImage" alt="" /></p>
                 
+    <h2 id="goals">
+      Goals
+    </h2>
+
   <p>
-    analysis of fsae brake pedal and other things
+    This brake pedal &amp; carriage design was inherited from GT's 2026 FSAE car, and my goal was to validate the design under new load cases. I worked on analysis of brake pedal and carriage using SolidWorks and Ansys, and derived load cases for floor analysis.
+  </p>
+
+    <h2 id="load-cases">
+      Load Cases
+    </h2>
+
+  <p>
+    FSAE rules require that the brake pedal system must withstand a force of 2000 N "panic braking" applied to the pedal. If one master cylinder fails mid-drive, the forces on the carriage increase, so this was also considered.
+  </p>
+
+    <h2 id="hand-calcs">
+      Hand Calcs
+    </h2>
+
+  <p>
+    Pedal Statics:
+  </p>
+
+    <h2 id="fea">
+      FEA
+    </h2>
+
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://beckettrgordon.github.io/portfolio/media/posts/6/gallery/b2.png" data-size="1518x742">
+        <img loading="lazy" src="https://beckettrgordon.github.io/portfolio/media/posts/6/gallery/b2-thumbnail.png" height="375" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://beckettrgordon.github.io/portfolio/media/posts/6/gallery/b3.png" data-size="1518x742">
+        <img loading="lazy" src="https://beckettrgordon.github.io/portfolio/media/posts/6/gallery/b3-thumbnail.png" height="375" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://beckettrgordon.github.io/portfolio/media/posts/6/gallery/bconvergence-2.png" data-size="472x354">
+        <img loading="lazy" src="https://beckettrgordon.github.io/portfolio/media/posts/6/gallery/bconvergence-2-thumbnail.png" height="354" width="472" alt="" >
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+
+  <p>
+    
   </p>
             ]]>
         </content>
