@@ -3,7 +3,7 @@
     <title>Beckett Gordon&#x27;s Portfolio</title>
     <link href="https://beckettrgordon.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://beckettrgordon.github.io/portfolio" />
-    <updated>2026-09-27T22:22:24-04:00</updated>
+    <updated>2026-09-27T22:27:57-04:00</updated>
     <author>
         <name>Beckett Gordon</name>
     </author>
@@ -77,23 +77,23 @@
       FEA
     </h2>
 
-  <div  class="gallery-wrapper">
+  <div  class="gallery-wrapper gallery-wrapper--full">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
+      <a href="https://beckettrgordon.github.io/portfolio/media/posts/6/gallery/bconvergence-2.png" data-size="472x354">
+        <img loading="lazy" src="https://beckettrgordon.github.io/portfolio/media/posts/6/gallery/bconvergence-2-thumbnail.png" height="354" width="472" alt="" >
+      </a>
+      <figcaption>Mesh Convergence Chart</figcaption>
+    </figure><figure class="gallery__item">
       <a href="https://beckettrgordon.github.io/portfolio/media/posts/6/gallery/b2.png" data-size="1518x742">
         <img loading="lazy" src="https://beckettrgordon.github.io/portfolio/media/posts/6/gallery/b2-thumbnail.png" height="375" width="768" alt="" >
       </a>
-      
+      <figcaption>Von Mises Stress</figcaption>
     </figure><figure class="gallery__item">
       <a href="https://beckettrgordon.github.io/portfolio/media/posts/6/gallery/b3.png" data-size="1518x742">
         <img loading="lazy" src="https://beckettrgordon.github.io/portfolio/media/posts/6/gallery/b3-thumbnail.png" height="375" width="768" alt="" >
       </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://beckettrgordon.github.io/portfolio/media/posts/6/gallery/bconvergence-2.png" data-size="472x354">
-        <img loading="lazy" src="https://beckettrgordon.github.io/portfolio/media/posts/6/gallery/bconvergence-2-thumbnail.png" height="354" width="472" alt="" >
-      </a>
-      
+      <figcaption>Deformation</figcaption>
     </figure>
     </div>
   </div>
