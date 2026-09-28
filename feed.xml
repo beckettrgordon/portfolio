@@ -3,7 +3,7 @@
     <title>Beckett Gordon&#x27;s Portfolio</title>
     <link href="https://beckettrgordon.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://beckettrgordon.github.io/portfolio" />
-    <updated>2026-09-27T22:27:57-04:00</updated>
+    <updated>2026-09-27T22:40:02-04:00</updated>
     <author>
         <name>Beckett Gordon</name>
     </author>
@@ -20,12 +20,15 @@
         <updated>2026-09-22T17:41:28-04:00</updated>
             <summary type="html">
                 <![CDATA[
-                    cool fun AE research project
+                    Background I worked with a team of two undergraduate research students to improve on the pneumatic thruster design of the&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>cool fun AE research project</p>
+                <h1>Background</h1>
+<p>I worked with a team of two undergraduate research students to improve on the pneumatic thruster design of the ASTROS spacecraft simulator for the Dynamics and Control Systems Lab at Georgia Tech.</p>
+<h1>Thruster CAD</h1>
+<p> </p>
             ]]>
         </content>
     </entry>
@@ -65,19 +68,19 @@
     FSAE rules require that the brake pedal system must withstand a force of 2000 N "panic braking" applied to the pedal. If one master cylinder fails mid-drive, the forces on the carriage increase, so this was also considered.
   </p>
 
-    <h2 id="hand-calcs">
-      Hand Calcs
+    <h2 id="pedal-statics">
+      Pedal Statics
     </h2>
 
   <p>
-    Pedal Statics:
+    
   </p>
 
     <h2 id="fea">
       FEA
     </h2>
 
-  <div  class="gallery-wrapper gallery-wrapper--full">
+  <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
       <a href="https://beckettrgordon.github.io/portfolio/media/posts/6/gallery/bconvergence-2.png" data-size="472x354">
